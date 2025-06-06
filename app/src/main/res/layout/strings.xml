@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CibertecApp</string>
+
+    <string name="text_email_login">Email</string>
+    <string name="text_password_login">Password</string>
+    <string name="btn_login_login">Sign In</string>
+    <string name="btn_register_login">Sign Up</string>
+    <string name="text_name_login">Name</string>
+    <string name="text_last_name_login">Last Name</string>
+    <string name="text_repeat_password_login">Repeat Password</string>
+    <string name="recover_password">Recuperar Contraseña</string>
+    <string name="btn_login_google_login">Google</string>
+    <string name="btn_login_facebook_login">Facebook</string>
+    <string name="text_products_products">Productos</string>
+    <string name="burguer_colorada">Hamburguesa Colorada</string>
+    <string name="burguer_colorada_description">Hamburguesa de carne de res con salsa de ají limo, papas al hilo, mix de col, tocino y aderezo de mostaza dulce.</string>
+    <string name="btn_add_products">Agregar</string>
+</resources>
